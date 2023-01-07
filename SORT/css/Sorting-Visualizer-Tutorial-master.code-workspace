@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "D:/project/SortingVisualizerByClement/Sorting-Visualizer-Tutorial-master"
+	},
+	{
+		"path": "D:/project/SortingAlgoVisualizer"
+	},
+	{
+		"path": "D:/project/SortingVisualizerApp"
+	},
+	{
+		"path": "D:/project"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Sorting-Visualizer-Tutorial-master"
+  }
+}
